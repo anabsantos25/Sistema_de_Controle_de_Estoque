@@ -46,7 +46,7 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 ### 💻 **WINDOWS**
 
 #### 1️⃣ Baixando o Código
-1. Clique aqui para fazer o download do código
+1. [Clique *aqui* para fazer o download do código](https://github.com/anabsantos25/Sistema_de_Controle_de_Estoque/archive/refs/heads/master.zip)
 3. Extraia o conteúdo do arquivo ZIP para uma pasta de sua escolha.
 
 #### 2️⃣ Usando no IntelliJ IDEA
@@ -72,7 +72,7 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 Aqui estão as instruções detalhadas para configurar e executar o projeto no **Mac**, usando **IntelliJ IDEA** ou **VS Code**.
 
 #### 1️⃣ Baixando o Código
-1. Clique aqui para fazer o download do código
+1. [Clique *aqui* para fazer o download do código](https://github.com/anabsantos25/Sistema_de_Controle_de_Estoque/archive/refs/heads/master.zip)
 2. Extraia o conteúdo do arquivo ZIP para uma pasta de sua escolha.
 
 #### 2️⃣ Usando no IntelliJ IDEA
