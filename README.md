@@ -1,4 +1,4 @@
-![Design sem nome](https://github.com/user-attachments/assets/5736d1d0-f794-4b2b-b887-9892851cdfbc)
+![Capa](https://github.com/user-attachments/assets/87e7688c-599d-40a4-bf78-4928a0f1ff1e)
 
 <h1 align="center" style="text-shadow: 2px 2px 5px white; color: cyan;">📦 Sistema de Controle de Estoque 📦</h1>
 
