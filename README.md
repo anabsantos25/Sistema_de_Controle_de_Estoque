@@ -40,6 +40,7 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 
 - Certifique-se de ter o Gradle Wrapper configurado no projeto. O arquivo gradlew (Mac/Linux) ou gradlew.bat (Windows) já está incluído no repositório.
 - A versão do JDK é 21.
+- Alertas sobre o Git podem ser ignorados.
 
 ---
 
