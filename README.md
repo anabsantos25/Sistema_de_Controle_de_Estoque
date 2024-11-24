@@ -40,7 +40,9 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 
 - Certifique-se de ter o Gradle Wrapper configurado no projeto. O arquivo gradlew (Mac/Linux) ou gradlew.bat (Windows) já está incluído no repositório.
 - A versão do JDK é 21.
+- Necessário instalar o Node.js em qualquer versão.
 - Alertas sobre o Git podem ser ignorados.
+- Certifique-se que todas as dependência estão ativas, sem arquivos corrompidos.
 
 ---
 
