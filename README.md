@@ -1,6 +1,6 @@
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio)
-
 ![Capa](https://github.com/user-attachments/assets/87e7688c-599d-40a4-bf78-4928a0f1ff1e)
+
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio)
 
 <h1 align="center" style="text-shadow: 2px 2px 5px white;">📦 Sistema de Controle de Estoque 📦</h1>
 
