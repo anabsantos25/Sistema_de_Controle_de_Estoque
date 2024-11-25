@@ -1,6 +1,6 @@
 ![Capa](https://github.com/user-attachments/assets/87e7688c-599d-40a4-bf78-4928a0f1ff1e)
 
-<h1 align="center" style="text-shadow: 2px 2px 5px white; color: cyan;">📦 Sistema de Controle de Estoque 📦</h1>
+<h1 align="center" style="text-shadow: 2px 2px 5px white;">📦 Sistema de Controle de Estoque 📦</h1>
 
 <h2 align="center" style="font-size: 28px; text-shadow: 2px 2px 5px white;">📝 Descrição do Projeto</h2>
 
@@ -22,15 +22,33 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 
 ---
 
-<h2 align="center" style="font-size: 28px; text-shadow: 2px 2px 5px white;">🔧 Funcionalidades</h2>
+<h2 align="center" style="font-size: 28px; text-shadow: 2px 2px 5px white;">🔧 Layout e Funcionalidades</h2>
+
+- <strong>Tela Inicial:</strong> Interface do programa
+
+![interface](https://github.com/user-attachments/assets/68b6c46f-dc35-434d-90b1-a10e1a5b166d)
   
-- <strong>Cadastro de Produtos:</strong> Insira informações como nome, descrição e quantidade.
+- <strong>Cadastro de Produtos:</strong> Insira informações como nome, descrição e quantidade em uma tabela.
+
+![cadastro](https://github.com/user-attachments/assets/94bd11b4-dc41-4496-9797-0b33e828f82e)
+
   
 - <strong>Listagem de Produtos:</strong> Visualize todos os produtos cadastrados.
 
+![tabela de produtos](https://github.com/user-attachments/assets/bffd6e5d-aa63-4410-aaae-0ff8c532dde7)
+
 - <strong>Atualização de Produtos:</strong> Edite as informações de produtos existentes.
 
+![atualizacao](https://github.com/user-attachments/assets/77cb346b-ff24-444b-b531-e7def6ff9eab)
+
+
 - <strong>Exclusão de Produtos:</strong> Remova produtos do estoque.
+
+![image](https://github.com/user-attachments/assets/795eb609-4d5e-4b06-b82f-271c77501dd2)
+![image](https://github.com/user-attachments/assets/cd1f8d9a-82ce-4ab1-8054-22d60f8d126d)
+
+
+
 
 ---
 
@@ -42,7 +60,7 @@ Este projeto está em sua versão completa com as funcionalidades principais imp
 - A versão do JDK é 21.
 - Necessário instalar o Node.js em qualquer versão.
 - Alertas sobre o Git podem ser ignorados.
-- Certifique-se que todas as dependência estão ativas, sem arquivos corrompidos.
+- Certifique-se que todas as dependências estão ativas, sem arquivos corrompidos.
 
 ---
 
