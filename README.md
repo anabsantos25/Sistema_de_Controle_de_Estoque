@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/seu-usuario/seu-repositorio)
+
 ![Capa](https://github.com/user-attachments/assets/87e7688c-599d-40a4-bf78-4928a0f1ff1e)
 
 <h1 align="center" style="text-shadow: 2px 2px 5px white;">📦 Sistema de Controle de Estoque 📦</h1>
@@ -7,17 +9,6 @@
 O Sistema de Controle de Estoque é uma aplicação desenvolvida na IDE IntelliJ com Spring Boot e Java para gerenciar o cadastro, listagem, atualização e exclusão de produtos em estoque. Ele utiliza um backend com Spring Data JPA e um banco de dados H2 em memória, além de um frontend simples e eficaz em HTML/JavaScript com Axios.
 <br>
 💡 Objetivo: Fornecer uma interface simples e intuitiva para o gerenciamento de produtos em estoque para pequenas e médias empresas.
-</p>
-
----
-
- <h2 align="center" style="font-size: 28px; text-shadow: 2px 2px 5px white;">🚀 Status do Projeto</h2>
-  
-<strong>Status:</strong> Concluído<br>
-
-<strong>Versão:</strong> 1.0.0<br>
-
-Este projeto está em sua versão completa com as funcionalidades principais implementadas e funcionando corretamente, de acordo com o objetivo inicial.
 </p>
 
 ---
